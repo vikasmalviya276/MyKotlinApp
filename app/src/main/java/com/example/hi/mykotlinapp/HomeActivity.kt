@@ -11,6 +11,16 @@ class HomeActivity : AppCompatActivity() {
         setVisisbility();
         setDateOnScreen();
         setMyDate();
+        setNewFeatureBranch();
+        setNewDate();
+    }
+
+    private fun setNewDate() {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+    }
+
+    private fun setNewFeatureBranch() {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 
     private fun setMyDate() {
