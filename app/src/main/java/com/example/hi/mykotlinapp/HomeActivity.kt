@@ -10,6 +10,11 @@ class HomeActivity : AppCompatActivity() {
         setContentView(R.layout.activity_home)
         setVisisbility();
         setDateOnScreen();
+        setMyDate();
+    }
+
+    private fun setMyDate() {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 
     private fun setDateOnScreen() {
