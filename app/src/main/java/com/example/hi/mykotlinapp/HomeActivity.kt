@@ -13,6 +13,11 @@ class HomeActivity : AppCompatActivity() {
         setMyDate();
         setNewFeatureBranch();
         setNewDate();
+        setRachitBranch();
+    }
+
+    private fun setRachitBranch() {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 
     private fun setNewDate() {
