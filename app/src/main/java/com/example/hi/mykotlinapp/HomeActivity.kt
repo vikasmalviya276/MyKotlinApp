@@ -10,8 +10,8 @@ class HomeActivity : AppCompatActivity() {
         setContentView(R.layout.activity_home)
         showRachit()
         showRachit2()
-        showRachit3()
-        showRachit4()
+
+
     }
 
     private fun showRachit4() {
