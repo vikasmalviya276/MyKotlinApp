@@ -14,6 +14,16 @@ class HomeActivity : AppCompatActivity() {
         setNewFeatureBranch();
         setNewDate();
         setRachitBranch();
+        setLocallyModofied();
+        setVikas();
+    }
+
+    private fun setVikas() {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+    }
+
+    private fun setLocallyModofied() {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 
     private fun setRachitBranch() {
