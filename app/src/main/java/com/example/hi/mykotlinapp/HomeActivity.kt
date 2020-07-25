@@ -10,7 +10,12 @@ class HomeActivity : AppCompatActivity() {
         setContentView(R.layout.activity_home)
         createBranch();
         showValue();
+        showRachit()
 
+    }
+
+    private fun showRachit() {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 
     private fun showValue() {
