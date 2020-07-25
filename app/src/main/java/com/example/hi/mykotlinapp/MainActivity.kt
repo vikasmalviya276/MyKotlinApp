@@ -10,7 +10,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val result = sum(5, 6)
         print(result)
+showNumber()
+    }
 
+    private fun showNumber() {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 
     fun sum(number1: Int, number2: Int): Int {
