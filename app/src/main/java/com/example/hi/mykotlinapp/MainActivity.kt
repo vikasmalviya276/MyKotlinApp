@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val result = sum(5, 6)
         print(result)
-showNumber()
+        showNumber()
     }
 
     private fun showNumber() {
