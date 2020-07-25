@@ -10,6 +10,11 @@ class HomeActivity : AppCompatActivity() {
         setContentView(R.layout.activity_home)
         showRachit()
         showRachit1()
+        showRachit3()
+    }
+
+    private fun showRachit3() {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 
     private fun showRachit1() {
