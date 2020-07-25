@@ -9,9 +9,13 @@ class HomeActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
         showRachit()
+showRachit2()
 
 
+    }
 
+    private fun showRachit2() {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 
     private fun showRachit() {
