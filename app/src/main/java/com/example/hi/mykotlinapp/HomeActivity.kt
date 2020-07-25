@@ -9,11 +9,6 @@ class HomeActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
         showVikas1()
-        showVikas2()
-    }
-
-    private fun showVikas2() {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 
     private fun showVikas1() {
