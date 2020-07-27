@@ -11,6 +11,11 @@ class HomeActivity : AppCompatActivity() {
         showRachit()
         showRachit2()
         showRachit3()
+        showRachit4()
+    }
+
+    private fun showRachit4() {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 
     private fun showRachit3() {
