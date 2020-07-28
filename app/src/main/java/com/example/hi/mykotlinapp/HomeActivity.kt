@@ -12,6 +12,11 @@ class HomeActivity : AppCompatActivity() {
         showVikas2()
         showVikas3()
         showVikas4()
+        showVikas5()
+    }
+
+    private fun showVikas5() {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 
     private fun showVikas4() {
