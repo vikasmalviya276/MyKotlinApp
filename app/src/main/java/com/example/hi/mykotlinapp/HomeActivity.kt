@@ -11,6 +11,11 @@ class HomeActivity : AppCompatActivity() {
         setContentView(R.layout.activity_home)
         showMaster1()
         showMaster2()
+        showMaser3()
+    }
+
+    private fun showMaser3() {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 
     private fun showMaster2() {
