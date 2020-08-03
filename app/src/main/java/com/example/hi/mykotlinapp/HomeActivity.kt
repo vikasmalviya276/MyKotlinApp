@@ -10,8 +10,12 @@ class HomeActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
         showMaster1()
-        showMaster2()
+        showMaster10()
         showMaser3()
+    }
+
+    private fun showMaster10() {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 
     private fun showMaser3() {
