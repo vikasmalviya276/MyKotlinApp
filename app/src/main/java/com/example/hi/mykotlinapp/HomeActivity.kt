@@ -9,14 +9,6 @@ class HomeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
-        showMaster1()
-        showMaster2()
-    }
 
-    private fun showMaster1() {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
-    }
-    private fun showMaster2() {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 }
