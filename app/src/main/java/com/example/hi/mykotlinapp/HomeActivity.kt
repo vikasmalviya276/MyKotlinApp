@@ -10,7 +10,16 @@ class HomeActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
         showVikas()
+<<<<<<< HEAD
         showRachit()
+=======
+        showVikas2()
+        showVikas3()
+    }
+
+    private fun showVikas3() {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+>>>>>>> a7d80000d61308bcd3c6edae806211958624c941
     }
 
     private fun showRachit() {
