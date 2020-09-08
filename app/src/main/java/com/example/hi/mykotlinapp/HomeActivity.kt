@@ -11,16 +11,6 @@ class HomeActivity : AppCompatActivity() {
         setContentView(R.layout.activity_home)
 
         showVikas1()
-        showVikas2()
-        showVikas3()
-    }
-
-    private fun showVikas3() {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
-    }
-
-    private fun showVikas2() {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 
     private fun showVikas1() {
