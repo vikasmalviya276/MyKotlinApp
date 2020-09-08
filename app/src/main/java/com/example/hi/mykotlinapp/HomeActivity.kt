@@ -9,11 +9,10 @@ class HomeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
-
-        showVikas1()
+        showSnajay()
     }
 
-    private fun showVikas1() {
+    private fun showSnajay() {
         TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 }
