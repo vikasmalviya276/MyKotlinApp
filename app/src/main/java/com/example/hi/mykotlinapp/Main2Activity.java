@@ -11,6 +11,10 @@ public class Main2Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
         setVikas();
         setVikas1();
+        showVikas3();
+    }
+
+    private void showVikas3() {
     }
 
     private void setVikas1() {
