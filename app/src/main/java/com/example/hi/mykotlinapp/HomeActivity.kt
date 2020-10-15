@@ -9,20 +9,42 @@ class HomeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
-        showRachit()
-        showRachit2()
-        showSnajay3()
     }
 
-    private fun showSnajay3() {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
-    }
+    fun main(args: Array<String>) {
 
-    private fun showRachit2() {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
-    }
+       var y:Int=10
+        do{
+            y=y+10;
+        }while (y<=10)
+        var x:Int = 0
+        do {
+            x = x + 10
+            println("I am inside Do block---"+x)
+        } while(x <= 50)
 
-    private fun showRachit() {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
+}
+
+class MyTestClass{
+    private var name:String="vikas malviya";
+    fun printme(){
+        println("show jere "+name);
+    }
+}
+class myClass {
+    // property (data member)
+    private var name: String = "Tutorials.point"
+
+    // member function
+    fun printMe() {
+        print("You are at the best Learning website Named-"+name)
+    }
+}
+fun main(args: Array<String>) {
+    val obj = myClass() // create obj object of myClass class
+    obj.printMe()
+
+    var obj=MyTestClass()
+    obj.printme()
 }
