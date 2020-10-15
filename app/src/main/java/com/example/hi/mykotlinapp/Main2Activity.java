@@ -9,20 +9,10 @@ public class Main2Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
-        setVikas();
-        setVikas1();
-        setVikas3();
+        showRachit();
     }
 
-    private void setVikas3() {
-
-    }
-
-    private void setVikas1() {
-
-    }
-
-    private void setVikas() {
+    private void showRachit() {
 
     }
 }
